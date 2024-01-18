@@ -1,5 +1,5 @@
 # Portfolio Personalizado
-[Deploy in Github Pages](https://eduardoprofe666.github.io)
+[Deploy in Github Pages](https://eduardoalejandro666.github.io)
 
 ## 🧞 Commands
 
